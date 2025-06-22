@@ -73,7 +73,7 @@ Precision, Recall, F1-score
 ### 🏆 Model Performance Comparison
 
 | Model	             |Accuracy |	Precision (1) |	Recall (1) |	F1-Score(1) |
------------------------------------------------------------------------------
+|--------------------|---------|----------------|------------|--------------|
 | Random Forest	     | 0.991   |    0.99	      | 0.92	     |  0.96        |
 | Decision Tree	     | 0.988	 |    0.95	      | 0.93	     |  0.94        |
 | Logistic Regression| 0.95	   |    0.86	      | 0.66	     |  0.75        |  
