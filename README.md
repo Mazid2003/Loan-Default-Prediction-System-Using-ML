@@ -34,7 +34,7 @@ Scaled features (e.g., Income, CCAvg, Mortgage)
 
 Renamed target column to Loan_Status
 
-**📊 2. Exploratory Data Analysis (EDA)**
+### 📊 2. Exploratory Data Analysis (EDA)
 
 Distribution plots for features like Income, CCAvg, Mortgage
 
@@ -48,7 +48,8 @@ Online banking
 
 Heatmap of correlation matrix
 
-🤖 3. Model Building
+### 🤖 3. Model Building
+
 Split data into training and test sets (80–20)
 
 Trained three classification models:
@@ -59,7 +60,8 @@ Decision Tree
 
 Random Forest
 
-📈 4. Model Evaluation
+### 📈 4. Model Evaluation
+
 Evaluated each model using:
 
 Accuracy
@@ -68,15 +70,17 @@ Confusion Matrix
 
 Precision, Recall, F1-score
 
-🏆 Model Performance Comparison
+### 🏆 Model Performance Comparison
+
 Model	Accuracy	F1-Score (Class 1)
 Random Forest	99.1%	0.96
 Decision Tree	98.8%	0.94
 Logistic Regression	95.0%	0.75
 
-✅ Best Model: Random Forest – due to its superior accuracy and balanced precision-recall.
+**✅ Best Model:** Random Forest – due to its superior accuracy and balanced precision-recall.
 
-📌 Key Insights from EDA
+### 📌 Key Insights from EDA
+
 Customers with higher income, advanced education, and existing credit cards are more likely to accept loans.
 
 Most loan approvals come from applicants with family sizes of 1 or 4.
