@@ -72,11 +72,12 @@ Precision, Recall, F1-score
 
 ### 🏆 Model Performance Comparison
 
-| Model               | Accuracy | F1-Score (Class 1) |
-| ------------------- | -------- | ------------------ |
-| Random Forest       | 99.1%    | 0.96               |
-| Decision Tree       | 98.8%    | 0.94               |
-| Logistic Regression | 95.0%    | 0.75               |
+| Model	             |Accuracy |	Precision (1) |	Recall (1) |	F1-Score(1) |
+-----------------------------------------------------------------------------
+| Random Forest	     | 0.991   |    0.99	      | 0.92	     |  0.96        |
+| Decision Tree	     | 0.988	 |    0.95	      | 0.93	     |  0.94        |
+| Logistic Regression| 0.95	   |    0.86	      | 0.66	     |  0.75        |  
+
 
 **✅ Best Model:** Random Forest – due to its superior accuracy and balanced precision-recall.
 
