@@ -24,7 +24,7 @@ The dataset contains 14 features and a target column:
 
 ## 🔧 Workflow
 
-#### ✅ 1. Data Preprocessing
+### ✅ 1. Data Preprocessing
 
 Removed unnecessary columns (ID, ZIPCode)
 
@@ -35,6 +35,7 @@ Scaled features (e.g., Income, CCAvg, Mortgage)
 Renamed target column to Loan_Status
 
 **📊 2. Exploratory Data Analysis (EDA)**
+
 Distribution plots for features like Income, CCAvg, Mortgage
 
 Countplots to compare Loan_Status with:
