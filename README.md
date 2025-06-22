@@ -62,7 +62,7 @@ Random Forest
 
 ### 📈 4. Model Evaluation
 
-Evaluated each model using:
+**Evaluated each model using:**
 
 Accuracy
 
@@ -72,10 +72,11 @@ Precision, Recall, F1-score
 
 ### 🏆 Model Performance Comparison
 
-Model	Accuracy	F1-Score (Class 1)
-Random Forest	99.1%	0.96
-Decision Tree	98.8%	0.94
-Logistic Regression	95.0%	0.75
+| Model               | Accuracy | F1-Score (Class 1) |
+| ------------------- | -------- | ------------------ |
+| Random Forest       | 99.1%    | 0.96               |
+| Decision Tree       | 98.8%    | 0.94               |
+| Logistic Regression | 95.0%    | 0.75               |
 
 **✅ Best Model:** Random Forest – due to its superior accuracy and balanced precision-recall.
 
@@ -87,7 +88,8 @@ Most loan approvals come from applicants with family sizes of 1 or 4.
 
 Online banking users are more likely to get loans approved.
 
-🧠 Tech Stack Used
+### 🧠 Tech Stack Used
+
 Python
 
 Pandas, NumPy
@@ -96,7 +98,8 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-✅ Deliverables
+### ✅ Deliverables
+
 Cleaned and annotated Jupyter Notebook
 
 EDA with visualizations
@@ -105,22 +108,20 @@ Final model with evaluation
 
 PDF report (optional)
 
-🚀 How to Run
+### 🚀 How to Run
+
 Clone this repo
 
-Install dependencies:
-
-bash
-Copy
-Edit
+**Install dependencies:**
+```
 pip install -r requirements.txt
+```
 Run the Jupyter notebook:
-
-bash
-Copy
-Edit
+```
 jupyter notebook Loan_Default_Prediction.ipynb
-📌 License
+```
+### 📌 License
+
 This project is open-source and free to use under the MIT License.
 
 > 📍 This project is part of the Machine Learning Trainee Program by **InnovateCloud Solutions** (2025).
