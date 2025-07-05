@@ -89,6 +89,10 @@ Most loan approvals come from applicants with family sizes of 1 or 4.
 
 Online banking users are more likely to get loans approved.
 
+### Screenshots:
+
+![screenshot_2025-07-05_21-52-28](https://github.com/user-attachments/assets/0540e64b-b421-4942-a333-f5fecf19f6af)
+
 ### 🧠 Tech Stack Used
 
 Python
