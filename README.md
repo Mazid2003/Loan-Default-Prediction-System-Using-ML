@@ -93,9 +93,10 @@ Online banking users are more likely to get loans approved.
 
 ![screenshot_2025-07-05_21-46-35](https://github.com/user-attachments/assets/63c73bf5-b02f-4444-83aa-66c1f32a8457)
 ![screenshot_2025-07-05_21-52-28](https://github.com/user-attachments/assets/0540e64b-b421-4942-a333-f5fecf19f6af)
-
-![screenshot_2025-07-05_21-53-08](https://github.com/user-attachments/assets/d7171c15-ed47-405c-9069-3dccd5731d6e)
 ![screenshot_2025-07-05_21-52-44](https://github.com/user-attachments/assets/91fe8757-c5ec-4461-8112-18f4859ba1ff)
+
+**Dark Mode**
+![screenshot_2025-07-05_21-53-08](https://github.com/user-attachments/assets/d7171c15-ed47-405c-9069-3dccd5731d6e)
 
 ### 🧠 Tech Stack Used
 
