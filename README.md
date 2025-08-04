@@ -133,5 +133,3 @@ jupyter notebook Loan_Default_Prediction.ipynb
 ### 📌 License
 
 This project is open-source and free to use under the MIT License.
-
-> 📍 This project is part of the Machine Learning Trainee Program by **InnovateCloud Solutions** (2025).
